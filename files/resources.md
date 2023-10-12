@@ -1,0 +1,11 @@
+[STAC Specifications](https://stacspec.org/)
+[Earth Search by Element 84](https://stacindex.org/catalogs/earth-search#/)
+[Shapely User Guide](https://shapely.readthedocs.io/en/stable/manual.html)
+[Cloud optimized geotiffs](https://www.cogeo.org/)
+[geofabrik](https://download.geofabrik.de/)
+[GADM](https://gadm.org/download_country.html)
+[Coordinate Reference System](https://epsg.io/)
+[Burned area index](https://custom-scripts.sentinel-hub.com/sentinel-2/burned_area_ms/)
+[Sentinel-2 units (digital numbers to reflectance)](https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/#units)
+
+[Via Appia project](https://revisited-via-appia.nl/)
